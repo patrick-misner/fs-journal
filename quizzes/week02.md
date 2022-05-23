@@ -74,13 +74,13 @@ It appears MDN is mozilla developer network and the ECMAScript is a standard in 
 The 9 ECMAscript types are as follow:
 
 1. Primitive Values (includes the 8 below, is the lowest level)
-2. Boolean type
-3. Null type
-4. Undefined type
-5. Number type
-6. BigInt type
-7. String type
-8. Symbol type
+  2. Boolean type
+  3. Null type
+  4. Undefined type
+  5. Number type
+  6. BigInt type
+  7. String type
+  8. Symbol type
 9. Objects
 
 ```
