@@ -64,9 +64,10 @@ __Bold__
 > **💡 Quotation:** call special attention with a blockquote
 
 # **Code Blocks**
+🖨 🛩 🪐🚀🤣🎤
 
 `Inline code`
-
+fddf🎸
 *Fenced code block*
 ```javascript{3,7}
 function democode(){
@@ -76,7 +77,6 @@ function democode(){
 }
 
 const executed = democode()
-```
 
 # **Links and Images**
 
