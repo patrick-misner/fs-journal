@@ -34,7 +34,7 @@ do a heroku git:remote -a projectName and then git push heroku master
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
-Branching is the cleanest and safest way to write new code and test a new version without any involvement with production/main/master branch..
+Branching is the cleanest and safest way for a team to write new code and test a new version without any involvement with production/main/master branch..
 ```
 **8.** When should code review happen?
 <!-- enter you answer in the space below -->
