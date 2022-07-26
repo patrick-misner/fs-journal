@@ -58,6 +58,13 @@
       "titleBar.inactiveBackground": "#21703f99",
       "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#21703f"
+    "peacock.color": "#21703f",
+    "cSpell.ignoreWords": [
+      "Companys"
+    ],
+    "cSpell.words": [
+      "cServ",
+      "Serv"
+    ]
   }
 }
